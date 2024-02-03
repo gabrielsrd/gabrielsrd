@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m a computer science student at USP<br>🔭 I’m currently working on Hollow<br>🤝 Besides data science and software engineering, I'm also<br>intereset in AI techonlogies <br> 📫 How to reach me: alvesgabriel@usp.br
+🌱 I’m a computer science student at USP<br>🔭 I’m currently working on Nova Energia<br>🤝 Besides data science and software engineering, I'm also<br>intereset in AI techonlogies <br> 📫 How to reach me: alvesgabriel@usp.br
 
 
 ## 🌐 Socials:
